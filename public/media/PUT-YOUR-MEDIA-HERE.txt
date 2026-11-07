@@ -1,0 +1,24 @@
+RIDGELINE — YOUR MEDIA FILES
+Put files in this folder with EXACTLY these names (lowercase).
+Missing files are fine: the app falls back automatically.
+
+public/media/
+  login.jpg     Login background. Wide mountain landscape at golden hour, ~2400x1600, < 500 KB
+  login.mp4     (optional) 5–10 s muted drone loop of mountains, 1280x720 or 1920x1080, < 6 MB
+  hero.jpg      Lauberhorn Ridge cover + featured card. Golden larch forest + lake + snowy peaks, ~2400x1600
+  hiker.jpg     Trail gallery. A hiker with a backpack looking over a valley, ~1600x1067
+
+public/media/trails/      (optional, one cover per trail, ~1600x1000, < 300 KB each)
+  lauberhorn-ridge.jpg    golden larches, ridge, lake
+  harder-kulm.jpg         viewpoint above two lakes / Interlaken
+  oeschinen-lake.jpg      turquoise lake under cliffs
+  bachalpsee.jpg          alpine lake reflecting peaks
+  schynige-platte.jpg     ridge path with big snowy peaks
+  gelmersee.jpg           turquoise reservoir, granite rocks
+  five-lakes.jpg          alpine lake with a pointed peak (Matterhorn style)
+  aletsch-view.jpg        long glacier from a ridge
+
+Free sources (free licence, no attribution required):
+  https://unsplash.com   https://www.pexels.com   https://pixabay.com
+  Videos: https://www.pexels.com/videos  https://pixabay.com/videos
+Compress before adding: https://squoosh.app (WebP or MozJPEG, quality ~75)
